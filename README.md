@@ -1,0 +1,1 @@
+# comparador_de_Hash
